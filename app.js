@@ -1,5 +1,8 @@
+//ignorar a pastra temp
 let listaDeNumerosSorteados = [];
 //alteracao deixar mais dificil
+
+
 let numeroLimite = 50;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
